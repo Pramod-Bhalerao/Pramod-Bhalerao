@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod-bhalerao&label=Profile%20views&color=0e75b6&style=flat" alt="pramod-bhalerao" /> </p>
 
-- 🌱 I’m currently learning **Angualr & ASP.NET CORE**
+- 🌱 I’m currently learning **Angular & ASP.NET CORE**
 
 - 📫 How to reach me **cs.pramodbhalerao@gmail.com**
 
