@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pramod</h1>
 <h3 align="center">A Passionate Web Developer From Pune</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod-bhalerao&label=Profile%20views&color=0e75b6&style=flat" alt="pramod-bhalerao" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod-bhalerao&label=Profile%20views&color=0e75b6&style=flat" alt="pramod-bhalerao" /></p>
 
 - 🌱 I’m currently learning **JavaScript & NodeJs**
 
